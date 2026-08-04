@@ -66,14 +66,6 @@ Fetches live weather data using APIs.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitha27&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitha27&layout=compact&theme=tokyonight)
-
----
-
 ⭐ Thanks for visiting my profile!
 
 <!--
