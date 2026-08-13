@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mohithabharathi</h1>
+<h1 align="center">Hi, I'm Mohithabharathi</h1>
 <h3 align="center">Final Year Engineering Student | Frontend Developer | Passionate about Web Development</h3>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-🎓 Final Year Engineering Student
+ Final Year Engineering Student
 
-💻 Interested in Frontend Development
+ Interested in Frontend Development
 
-🌱 Currently learning React.js and improving my JavaScript skills
+ Currently learning React.js and improving my JavaScript skills
 
-🚀 Looking for Frontend Development Internships & Full-Time Opportunities
+ Looking for Frontend Development Internships & Full-Time Opportunities
 
-✨ I enjoy building responsive and user-friendly web applications.
+ I enjoy building responsive and user-friendly web applications.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 - HTML
@@ -37,36 +37,30 @@
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 🌐 Portfolio Website
+###  Portfolio Website
 Personal portfolio showcasing my skills and projects.
 
-### 📝 To-Do List App
+###  To-Do List App
 A responsive task management application using HTML, CSS and JavaScript.
 
-### 🌦️ Weather App
+###  Weather App
 Fetches live weather data using APIs.
 
 *(I'll keep adding more projects as I learn.)*
 
----
-
-## 📜 Certifications
-
-- Frontend Development
-- Git & GitHub
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/mohithabharathi
 - Email: mohithabharathi@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 <!--
 **mohitha27/mohitha27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
